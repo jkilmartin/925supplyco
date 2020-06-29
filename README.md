@@ -1,2 +1,4 @@
 # 925supplyco
-Website for 925supplyco
+e-commerce site for 925supplyco
+
+More Updates to Come.
